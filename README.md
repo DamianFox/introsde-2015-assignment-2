@@ -36,14 +36,14 @@ This project was developed my Damiano Fossa. The client part is connecting to Ch
 
 #### REST Functions handle by the server (XML and JSON):
 
-* GET person
-* POST person
-* GET person/{id}
-* PUT person/{id}
-* DELETE person/{id}
-* GET person/{id}/{measureType}
-* GET person/{id}/{measureType}/{id}
-* GET measureTypes
+* GET {address}/person
+* POST {address}/person
+* GET {address}/person/{id}
+* PUT {address}/person/{id}
+* DELETE {address}/person/{id}
+* GET {address}/person/{id}/{measureType}
+* GET {address}/person/{id}/{measureType}/{id}
+* GET {address}/measureTypes
 
 
 
