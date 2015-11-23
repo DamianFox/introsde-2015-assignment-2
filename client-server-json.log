@@ -1,0 +1,2472 @@
+Request #1 GET /person Accept: APPLICATION/JSON Content-Type: APPLICATION/JSON 
+=> Result: OK 
+=> HTTP Status: 200
+
+[ {
+  "idPerson" : 1,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ {
+    "value" : "99",
+    "createdDate" : "2015/11/17",
+    "mid" : 1755,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "160",
+    "createdDate" : null,
+    "mid" : 1754,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Damiano"
+}, {
+  "idPerson" : 2,
+  "lastname" : "Tralalala",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ {
+    "value" : "85",
+    "createdDate" : null,
+    "mid" : 502,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "85",
+    "createdDate" : null,
+    "mid" : 552,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 3,
+  "lastname" : "Pippo",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "Pappo"
+}, {
+  "idPerson" : 2703,
+  "lastname" : "Tralala",
+  "birthdate" : 677455200000,
+  "lifeStatus" : [ ],
+  "firstname" : "New"
+}, {
+  "idPerson" : 2753,
+  "lastname" : "The Little",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "Stuart"
+}, {
+  "idPerson" : 2754,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "Jecky"
+}, {
+  "idPerson" : 2804,
+  "lastname" : "Tieta",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "Aboboda"
+}, {
+  "idPerson" : 2854,
+  "lastname" : "Tieta",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "Aboboda"
+}, {
+  "idPerson" : 2855,
+  "lastname" : "Chhahahaan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "Jecky"
+}, {
+  "idPerson" : 2954,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3004,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3005,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3054,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3107,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3108,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3154,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3204,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3254,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3304,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3305,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3354,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3355,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3404,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3405,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3454,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3455,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3504,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3505,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3554,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3604,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3654,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3704,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3754,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3755,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3904,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3905,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 4004,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 4054,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 4104,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 4154,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ {
+    "value" : "72.3",
+    "createdDate" : null,
+    "mid" : 1602,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "9",
+    "createdDate" : null,
+    "mid" : 1603,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 4155,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ {
+    "value" : "72.3",
+    "createdDate" : null,
+    "mid" : 1604,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "9",
+    "createdDate" : null,
+    "mid" : 1605,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 4204,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "Jeckie"
+}, {
+  "idPerson" : 4254,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4304,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4305,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4354,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4404,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4405,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4406,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4454,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4504,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4505,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4554,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4604,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4605,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4606,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4654,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4655,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4704,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4705,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4754,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4755,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4804,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4805,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4854,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4904,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4905,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4954,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4955,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ ],
+  "firstname" : "Carlos Jose"
+}, {
+  "idPerson" : 4956,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ ],
+  "firstname" : "Carlos Jose"
+}, {
+  "idPerson" : 5207,
+  "lastname" : "Stuart",
+  "birthdate" : 654994800000,
+  "lifeStatus" : [ {
+    "value" : "99",
+    "createdDate" : "2015/11/19",
+    "mid" : 1805,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "160",
+    "createdDate" : "2015/11/19",
+    "mid" : 1806,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Carlos Jose"
+}, {
+  "idPerson" : 5254,
+  "lastname" : "Stuart",
+  "birthdate" : 654994800000,
+  "lifeStatus" : [ {
+    "value" : "99",
+    "createdDate" : "2015/11/19",
+    "mid" : 1855,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "160",
+    "createdDate" : "2015/11/19",
+    "mid" : 1856,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Carlos Jose"
+}, {
+  "idPerson" : 5255,
+  "lastname" : "Stuart",
+  "birthdate" : 654994800000,
+  "lifeStatus" : [ {
+    "value" : "99",
+    "createdDate" : "2015/11/19",
+    "mid" : 1857,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "160",
+    "createdDate" : "2015/11/19",
+    "mid" : 1858,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Carlos Jose"
+}, {
+  "idPerson" : 5304,
+  "lastname" : "Stuart",
+  "birthdate" : 654994800000,
+  "lifeStatus" : [ {
+    "value" : "99",
+    "createdDate" : "2015/11/19",
+    "mid" : 1905,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "160",
+    "createdDate" : "2015/11/19",
+    "mid" : 1906,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Carlos Jose"
+}, {
+  "idPerson" : 5354,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 1955,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 1956,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5355,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 1957,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 1958,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5356,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 1959,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 1960,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5357,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 1961,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 1962,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5358,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 1963,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 1964,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5359,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 1965,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 1966,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5360,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 1967,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 1968,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5361,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 1969,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 1970,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5362,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 1971,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 1972,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5404,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 2005,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 2006,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5405,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 2007,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 2008,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5454,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2055,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2056,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5455,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2057,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2058,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5456,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2059,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2060,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5457,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2061,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2062,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5458,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2063,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2064,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5459,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2065,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2066,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5460,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2067,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2068,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5461,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2069,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2070,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5462,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2071,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2072,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5463,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2073,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2074,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5464,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2075,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2076,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5465,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2077,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2078,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5466,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2079,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2080,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5467,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2081,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2082,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5468,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2083,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2084,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5469,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2085,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2086,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5470,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2087,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2088,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5604,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5605,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5654,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5655,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5656,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5704,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5754,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5755,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5756,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5757,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5758,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5759,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5760,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5804,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5805,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5854,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5855,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5904,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5954,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5955,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 6004,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 6054,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 6104,
+  "lastname" : "Norris",
+  "birthdate" : -788918400000,
+  "lifeStatus" : [ ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 6105,
+  "lastname" : "Norris",
+  "birthdate" : -788918400000,
+  "lifeStatus" : [ ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 6106,
+  "lastname" : "Norris",
+  "birthdate" : -788918400000,
+  "lifeStatus" : [ ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 6107,
+  "lastname" : "Norris",
+  "birthdate" : -788918400000,
+  "lifeStatus" : [ ],
+  "firstname" : "Chuck"
+} ]
+
+Request #2 GET /person/first_person_id Accept: APPLICATION/JSON Content-Type: APPLICATION/JSON 
+=> Result: OK 
+=> HTTP Status: 200
+
+{
+  "idPerson" : 1,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ {
+    "value" : "99",
+    "createdDate" : "2015/11/17",
+    "mid" : 1755,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "160",
+    "createdDate" : null,
+    "mid" : 1754,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Damiano"
+}
+
+Request #3 PUT /person/first_person_id Accept: APPLICATION/JSON Content-Type: APPLICATION/JSON 
+=> Result: OK 
+=> HTTP Status: 201
+
+
+Request #4 POST /person Accept: APPLICATION/JSON Content-Type: APPLICATION/JSON 
+=> Result: ERROR 
+=> HTTP Status: 404
+
+
+Request #5 DELETE /person/ Accept: APPLICATION/JSON Content-Type: APPLICATION/JSON 
+=> Result: ERROR 
+=> HTTP Status: 405
+
+
+Request #2 GET /person/ Accept: APPLICATION/JSON Content-Type: APPLICATION/JSON 
+=> Result: OK 
+=> HTTP Status: 200
+
+[ {
+  "idPerson" : 1,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ {
+    "value" : "99",
+    "createdDate" : "2015/11/17",
+    "mid" : 1755,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "160",
+    "createdDate" : null,
+    "mid" : 1754,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Damiano"
+}, {
+  "idPerson" : 2,
+  "lastname" : "Tralalala",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ {
+    "value" : "85",
+    "createdDate" : null,
+    "mid" : 502,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "85",
+    "createdDate" : null,
+    "mid" : 552,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 3,
+  "lastname" : "Pippo",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "Pappo"
+}, {
+  "idPerson" : 2703,
+  "lastname" : "Tralala",
+  "birthdate" : 677455200000,
+  "lifeStatus" : [ ],
+  "firstname" : "New"
+}, {
+  "idPerson" : 2753,
+  "lastname" : "The Little",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "Stuart"
+}, {
+  "idPerson" : 2754,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "Jecky"
+}, {
+  "idPerson" : 2804,
+  "lastname" : "Tieta",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "Aboboda"
+}, {
+  "idPerson" : 2854,
+  "lastname" : "Tieta",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "Aboboda"
+}, {
+  "idPerson" : 2855,
+  "lastname" : "Chhahahaan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "Jecky"
+}, {
+  "idPerson" : 2954,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3004,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3005,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3054,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3107,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3108,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3154,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3204,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3254,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3304,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3305,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3354,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3355,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3404,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3405,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3454,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3455,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3504,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3505,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3554,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3604,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3654,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3704,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3754,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3755,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3904,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 3905,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 4004,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 4054,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 4104,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 4154,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ {
+    "value" : "72.3",
+    "createdDate" : null,
+    "mid" : 1602,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "9",
+    "createdDate" : null,
+    "mid" : 1603,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 4155,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ {
+    "value" : "72.3",
+    "createdDate" : null,
+    "mid" : 1604,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "9",
+    "createdDate" : null,
+    "mid" : 1605,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "ueaheuah"
+}, {
+  "idPerson" : 4204,
+  "lastname" : "Chan",
+  "birthdate" : 273535200000,
+  "lifeStatus" : [ ],
+  "firstname" : "Jeckie"
+}, {
+  "idPerson" : 4254,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4304,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4305,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4354,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4404,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4405,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4406,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4454,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4504,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4505,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4554,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4604,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4605,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4606,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4654,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4655,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4704,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4705,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4754,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4755,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4804,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4805,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4854,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4904,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4905,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4954,
+  "lastname" : "sobrenome do cabra",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "nome do cabra"
+}, {
+  "idPerson" : 4955,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ ],
+  "firstname" : "Carlos Jose"
+}, {
+  "idPerson" : 4956,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ ],
+  "firstname" : "Carlos Jose"
+}, {
+  "idPerson" : 5207,
+  "lastname" : "Stuart",
+  "birthdate" : 654994800000,
+  "lifeStatus" : [ {
+    "value" : "99",
+    "createdDate" : "2015/11/19",
+    "mid" : 1805,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "160",
+    "createdDate" : "2015/11/19",
+    "mid" : 1806,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Carlos Jose"
+}, {
+  "idPerson" : 5254,
+  "lastname" : "Stuart",
+  "birthdate" : 654994800000,
+  "lifeStatus" : [ {
+    "value" : "99",
+    "createdDate" : "2015/11/19",
+    "mid" : 1855,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "160",
+    "createdDate" : "2015/11/19",
+    "mid" : 1856,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Carlos Jose"
+}, {
+  "idPerson" : 5255,
+  "lastname" : "Stuart",
+  "birthdate" : 654994800000,
+  "lifeStatus" : [ {
+    "value" : "99",
+    "createdDate" : "2015/11/19",
+    "mid" : 1857,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "160",
+    "createdDate" : "2015/11/19",
+    "mid" : 1858,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Carlos Jose"
+}, {
+  "idPerson" : 5304,
+  "lastname" : "Stuart",
+  "birthdate" : 654994800000,
+  "lifeStatus" : [ {
+    "value" : "99",
+    "createdDate" : "2015/11/19",
+    "mid" : 1905,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "160",
+    "createdDate" : "2015/11/19",
+    "mid" : 1906,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Carlos Jose"
+}, {
+  "idPerson" : 5354,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 1955,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 1956,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5355,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 1957,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 1958,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5356,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 1959,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 1960,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5357,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 1961,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 1962,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5358,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 1963,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 1964,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5359,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 1965,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 1966,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5360,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 1967,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 1968,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5361,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 1969,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 1970,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5362,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 1971,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 1972,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5404,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 2005,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 2006,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5405,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/19",
+    "mid" : 2007,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/19",
+    "mid" : 2008,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5454,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2055,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2056,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5455,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2057,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2058,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5456,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2059,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2060,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5457,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2061,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2062,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5458,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2063,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2064,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5459,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2065,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2066,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5460,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2067,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2068,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5461,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2069,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2070,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5462,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2071,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2072,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5463,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2073,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2074,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5464,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2075,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2076,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5465,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2077,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2078,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5466,
+  "lastname" : "Abilton",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2079,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2080,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Comandante"
+}, {
+  "idPerson" : 5467,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2081,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2082,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5468,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2083,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2084,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5469,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2085,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2086,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5470,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ {
+    "value" : "78.9",
+    "createdDate" : "2015/11/20",
+    "mid" : 2087,
+    "MeasureType" : "weight"
+  }, {
+    "value" : "172",
+    "createdDate" : "2015/11/20",
+    "mid" : 2088,
+    "MeasureType" : "height"
+  } ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5604,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5605,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5654,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5655,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5656,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5704,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5754,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5755,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5756,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5757,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5758,
+  "lastname" : "Brightnson",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5759,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5760,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5804,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5805,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 5854,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5855,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5904,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5954,
+  "lastname" : "Norris",
+  "birthdate" : -788922000000,
+  "lifeStatus" : [ ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 5955,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 6004,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 6054,
+  "lastname" : "Stuart",
+  "birthdate" : null,
+  "lifeStatus" : [ ],
+  "firstname" : "Johannes"
+}, {
+  "idPerson" : 6104,
+  "lastname" : "Norris",
+  "birthdate" : -788918400000,
+  "lifeStatus" : [ ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 6105,
+  "lastname" : "Norris",
+  "birthdate" : -788918400000,
+  "lifeStatus" : [ ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 6106,
+  "lastname" : "Norris",
+  "birthdate" : -788918400000,
+  "lifeStatus" : [ ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 6107,
+  "lastname" : "Norris",
+  "birthdate" : -788918400000,
+  "lifeStatus" : [ ],
+  "firstname" : "Chuck"
+}, {
+  "idPerson" : 6108,
+  "lastname" : "Norris",
+  "birthdate" : -788918400000,
+  "lifeStatus" : [ ],
+  "firstname" : "Chuck"
+} ]
+
+Request #9 GET /measureTypes Accept: APPLICATION/JSON Content-Type: APPLICATION/JSON 
+=> Result: OK 
+=> HTTP Status: 200
+
+{
+  "measureType" : [ "weight", "height", "steps", "blood pressure", "heart rate", "bmi" ]
+}
+
+Request #6 GET /person/1/weight Accept: APPLICATION/JSON Content-Type: APPLICATION/JSON 
+=> Result: ERROR 
+=> HTTP Status: 200
+
+[ {
+  "value" : "72.3",
+  "createdDate" : null,
+  "mid" : 1,
+  "MeasureType" : "weight"
+}, {
+  "value" : "86",
+  "createdDate" : null,
+  "mid" : 352,
+  "MeasureType" : "weight"
+}, {
+  "value" : "72.3",
+  "createdDate" : null,
+  "mid" : 1752,
+  "MeasureType" : "weight"
+}, {
+  "value" : "99",
+  "createdDate" : null,
+  "mid" : 1753,
+  "MeasureType" : "weight"
+}, {
+  "value" : "99",
+  "createdDate" : "2015/11/17",
+  "mid" : 1755,
+  "MeasureType" : "weight"
+}, {
+  "value" : "72.3",
+  "createdDate" : "2015/11/22",
+  "mid" : 2211,
+  "MeasureType" : "weight"
+}, {
+  "value" : "72.3",
+  "createdDate" : "2015/11/22",
+  "mid" : 2214,
+  "MeasureType" : "weight"
+}, {
+  "value" : "72.3",
+  "createdDate" : "2015/11/22",
+  "mid" : 2217,
+  "MeasureType" : "weight"
+}, {
+  "value" : "72.3",
+  "createdDate" : "2015/11/22",
+  "mid" : 2285,
+  "MeasureType" : "weight"
+}, {
+  "value" : "160",
+  "createdDate" : "2015/11/22",
+  "mid" : 2286,
+  "MeasureType" : "weight"
+}, {
+  "value" : "72.3",
+  "createdDate" : "2015/11/22",
+  "mid" : 2289,
+  "MeasureType" : "weight"
+}, {
+  "value" : "160",
+  "createdDate" : "2015/11/23",
+  "mid" : 2505,
+  "MeasureType" : "weight"
+}, {
+  "value" : "72.3",
+  "createdDate" : "2015/11/23",
+  "mid" : 2506,
+  "MeasureType" : "weight"
+}, {
+  "value" : "160",
+  "createdDate" : "2015/11/23",
+  "mid" : 2507,
+  "MeasureType" : "weight"
+}, {
+  "value" : "72.3",
+  "createdDate" : "2015/11/23",
+  "mid" : 2508,
+  "MeasureType" : "weight"
+}, {
+  "value" : "72.3",
+  "createdDate" : "2015/11/23",
+  "mid" : 2509,
+  "MeasureType" : "weight"
+}, {
+  "value" : "160",
+  "createdDate" : "2015/11/23",
+  "mid" : 2510,
+  "MeasureType" : "weight"
+}, {
+  "value" : "72.3",
+  "createdDate" : "2015/11/23",
+  "mid" : 2511,
+  "MeasureType" : "weight"
+} ]
+
+Request #6 GET /person/1/height Accept: APPLICATION/JSON Content-Type: APPLICATION/JSON 
+=> Result: ERROR 
+=> HTTP Status: 200
+
+[ {
+  "value" : "160",
+  "createdDate" : null,
+  "mid" : 1754,
+  "MeasureType" : "height"
+} ]
+
+Request #6 GET /person/1/steps Accept: APPLICATION/JSON Content-Type: APPLICATION/JSON 
+=> Result: ERROR 
+=> HTTP Status: 200
+
+[ ]
+
+Request #6 GET /person/1/blood pressure Accept: APPLICATION/JSON Content-Type: APPLICATION/JSON 
+=> Result: ERROR 
+=> HTTP Status: 200
+
+[ ]
+
+Request #6 GET /person/1/heart rate Accept: APPLICATION/JSON Content-Type: APPLICATION/JSON 
+=> Result: ERROR 
+=> HTTP Status: 200
+
+[ ]
+
+Request #6 GET /person/1/bmi Accept: APPLICATION/JSON Content-Type: APPLICATION/JSON 
+=> Result: ERROR 
+=> HTTP Status: 200
+
+[ ]
+
+Request #7 GET /person/1/weight/1 Accept: APPLICATION/JSON Content-Type: APPLICATION/JSON 
+=> Result: OK 
+=> HTTP Status: 200
+
+{
+  "value" : "72.3",
+  "createdDate" : null,
+  "mid" : 1,
+  "MeasureType" : "weight"
+}
+
+Request #8 POST /person/1/weight Accept: APPLICATION/JSON Content-Type: APPLICATION/JSON 
+=> Result: ERROR 
+=> HTTP Status: 200
+
+{
+  "value" : "160",
+  "createdDate" : "2015/11/23",
+  "mid" : 2512,
+  "MeasureType" : "weight"
+}
+
